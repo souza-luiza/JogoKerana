@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Jogo Kerana.sln"
+    "dotnet.defaultSolution": "JogoKerana.sln"
 }
